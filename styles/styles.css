@@ -9,3 +9,11 @@ body{
     flex-flow: column nowrap;
     align-items: center;
 }
+
+p{
+    font-family: Arial, sans-serif;
+}
+
+ul, ol{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
