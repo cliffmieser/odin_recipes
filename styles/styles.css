@@ -1,0 +1,11 @@
+img{
+    height: 500px;
+    width:500px;
+}
+
+body{
+    background-color: aquamarine;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
